@@ -1,6 +1,6 @@
 # DBSCAN
-Cpp impl of the DB Scan algorithm
-
-Environment: Visual Studio 2010
+Cpp implementation of the DB Scan algorithm.
 
 Implementation of the DBSCAN clustering algorithm on arbitrary dimensionality. Do what the fuck you want with it. Documentation inlined.
+
+Environment: Visual Studio 2010
